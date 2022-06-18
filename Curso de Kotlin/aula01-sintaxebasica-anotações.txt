@@ -1,0 +1,7 @@
+Tipos de dados - https://pl.kotl.in/ogDdjpn3d
+Variáveis - https://pl.kotl.in/EUgwpRmpi
+Prevendo erro de variáveis - https://pl.kotl.in/HMQYYXp4i
+Operadores Lógicos e Range - https://pl.kotl.in/M5p1o1xuM
+Funções - https://pl.kotl.in/C1oYFZ0-L
+Condições Lógicas -> https://pl.kotl.in/DHo2PZD7X
+Estruturas de Repetição -> https://pl.kotl.in/6eTdjqZ5c

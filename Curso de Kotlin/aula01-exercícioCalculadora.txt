@@ -1,0 +1,5 @@
+Exercício com a proposta de elaborar uma calculadora com base nos aprendizados do módulo 1 do curso.
+
+A solução proposta envolve análise do operação selecionada, da verificação se as variáveis são nulas, e realização da operação desejada.
+
+Link da resolução: https://pl.kotl.in/xFKn_q_QW
